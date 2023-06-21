@@ -203,6 +203,7 @@ main section:nth-of-type(2) article img {
     main section:nth-of-type(2) article {
         width: auto;
         height: auto;
+        text-align: center;
     }
 
     main section:nth-of-type(2) article img {
